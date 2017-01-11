@@ -1,0 +1,40 @@
+Initialize engine version: 4.7.2f1 (a7fe7b7f3d1f)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 660M (ID=0xfd4)
+    Vendor:   NVIDIA
+    VRAM:     2017 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Best\Unity Games\Number Wizard UI\NumberWizardUI_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Best\Unity Games\Number Wizard UI\NumberWizardUI_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Best\Unity Games\Number Wizard UI\NumberWizardUI_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Best\Unity Games\Number Wizard UI\NumberWizardUI_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Best\Unity Games\Number Wizard UI\NumberWizardUI_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Best\Unity Games\Number Wizard UI\NumberWizardUI_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+- Completed reload, in  0.053 seconds
+desktop: 1600x900 60Hz; virtual: 1600x900 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+Platform assembly: C:\Best\Unity Games\Number Wizard UI\NumberWizardUI_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Best\Unity Games\Number Wizard UI\NumberWizardUI_Data\Managed\System.dll (this message is harmless)
+Level goingGame
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+UnloadTime: 12.380601 ms
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 153.
+Total: 1.749484 ms (FindLiveObjects: 0.024868 ms CreateObjectMapping: 0.015789 ms MarkObjects: 0.329212 ms  DeleteObjects: 0.007500 ms)
+
+UnloadTime: 0.773294 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 135.
+Total: 1.630667 ms (FindLiveObjects: 0.014605 ms CreateObjectMapping: 0.015394 ms MarkObjects: 0.289343 ms  DeleteObjects: 0.006315 ms)
+
+Level quit
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
